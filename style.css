@@ -1,0 +1,22 @@
+body{
+background-image:url("https://media1.giphy.com/media/xTdAjyBjcMODnF7ZII/giphy.gif?cid=3640f6095c040cfe49384e4d59db0bec");
+
+}
+
+
+h1{
+font-size: 50px;
+font-family: 'Acme', sans-serif;
+text-align: center;
+}
+
+
+button{
+  display: block;
+  margin: 0 auto;
+    background-color: white;
+    color: black;
+    border: 2px solid #c12626;
+border-radius: 40%;
+padding:20px;
+}
